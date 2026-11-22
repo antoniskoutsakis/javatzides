@@ -42,7 +42,7 @@ public class Request {
     }
 
 
-    //μεθοδος set για αναθεση ανελκυστηρα στο αιτημα
+    //μεθοδος για αναθεση ανελκυστηρα στο αιτημα
     public void assignElevator(String elevatorId) {
         this.assignedElevator = elevatorId;
         this.status = "ASSIGNED";
