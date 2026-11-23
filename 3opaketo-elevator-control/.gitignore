@@ -1,0 +1,8 @@
+# Αγνοούμε τον φάκελο με τα μεταγλωττισμένα αρχεία του Maven
+target/
+
+# Αγνοούμε τοπικές ρυθμίσεις του VS Code
+.vscode/
+.classpath
+.project
+.settings/
