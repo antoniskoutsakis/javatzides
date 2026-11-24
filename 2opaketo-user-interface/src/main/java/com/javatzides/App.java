@@ -1,13 +1,11 @@
 package com.javatzides;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class App {
+    public static void main(String[] args) {
+        // πρόχειρα για να δουλεψουμε λιγο:
+        int installedFloor = 0;
+        int maxFloor = 100;
+
+       
     }
 }
