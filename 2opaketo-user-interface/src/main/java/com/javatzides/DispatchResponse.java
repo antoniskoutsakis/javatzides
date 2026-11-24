@@ -23,4 +23,3 @@ public class DispatchResponse {
         return status == 200;
     }
 }
-}
