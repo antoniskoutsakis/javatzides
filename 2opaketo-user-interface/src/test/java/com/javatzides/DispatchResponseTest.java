@@ -4,7 +4,7 @@ import com.google.gson.Gson;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class DispatchResponsetTest {
+public class DispatchResponseTest {
     private final Gson gson = new Gson();
 
     @Test 
